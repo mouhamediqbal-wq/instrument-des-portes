@@ -34,6 +34,8 @@
 5. **Les quatre plaques** (Poisson, cristal, GUE, Riemann) : vérifier que seule la plaque de Riemann laisse passer les premiers, et que les premiers vivent dans les corrélations à longue portée (Bogomolny-Keating), pas dans la répulsion locale.
 6. **Caractères complexes** : étendre les filtres de couleur aux classes mod 5, 7, 8… complètes (caractères non réels).
 7. **Hauteurs extrêmes** : la règle X = t/2π devient impraticable vers 10¹² ; quelle version tronquée garde 99 % ?
+8. **Conservation du défaut** (voir `6-born/`) : le défaut cumulé des portes de l'instrument reste borné, comme la trace du commutateur de Born. Pourquoi ? Écrire l'analogue exact de la trace.
+9. **Le peigne de Möbius** (voir `6-born/`) : les résonances des portes en q = (a/b)·t/2π suivent μ(a) · Π_{p|a} √p/(p − 1) · b^(−1/2) sur 2 125 zéros. Le démontrer, ou le trouver dans la littérature (les dents X/b sont connues ; les dents a·X n'ont pas été trouvées).
 
 ## 4. Références
 

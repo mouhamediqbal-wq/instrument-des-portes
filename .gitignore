@@ -3,3 +3,7 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 Thumbs.db
+
+# 6-born : donnees intermediaires regenerees par les scripts
+6-born/scripts/*.npy
+6-born/scripts/*.npz

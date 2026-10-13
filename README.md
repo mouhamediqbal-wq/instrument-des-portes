@@ -63,6 +63,7 @@ Nothing here proves the Riemann Hypothesis.
 | `3-references/` | comparison with public tables (Odlyzko, LMFDB) |
 | `4-theorie/` | links to the literature, open questions (`THEORY.md`) |
 | `5-communaute/` | interactive spectrometer, contribution guide (`CONTRIBUTING.md`), microwave-network build plan (`build-plan.md`) |
+| `6-born/` | supplementary part: Born's commutation relation, conservation of the defect of the doors, the Möbius comb of resonances |
 
 ## Running the test bench
 
@@ -70,7 +71,7 @@ Python 3.10 or later, with `numpy` and `scipy`; `mpmath` is only needed for cros
 
 ```
 cd 2-banc-d-essai
-python lancer_les_tests.py          # 14 fast tests (about 15 seconds)
+python lancer_les_tests.py          # 18 fast tests (about 15 seconds)
 python lancer_les_tests.py --lents  # + 3 slow tests: windows at 3·10⁵ and 2·10⁶, recomputation of the Dirichlet zeros (about 1 extra minute)
 ```
 

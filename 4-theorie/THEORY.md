@@ -34,6 +34,8 @@
 5. **The four plates** (Poisson, crystal, GUE, Riemann): check that only the Riemann plate lets the primes through, and that the primes live in the long-range correlations (Bogomolny-Keating), not in the local repulsion.
 6. **Complex characters**: extend the colour filters to complete classes mod 5, 7, 8… (non-real characters).
 7. **Extreme heights**: the rule X = t/2π becomes impractical around 10¹²; which truncated version keeps 99 %?
+8. **Conservation of the defect** (see `6-born/`): the cumulative defect of the instrument's doors stays bounded, like the trace of Born's commutator. Why? Write the exact analogue of the trace.
+9. **The Möbius comb** (see `6-born/`): the resonances of the doors at q = (a/b)·t/2π follow μ(a) · Π_{p|a} √p/(p − 1) · b^(−1/2) on 2,125 zeros. Prove it, or find it in the literature (the teeth X/b are known; the teeth a·X were not found).
 
 ## 4. References
 

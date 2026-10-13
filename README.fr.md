@@ -63,6 +63,7 @@ Rien ici ne démontre l'hypothèse de Riemann.
 | `3-references/` | confrontation aux tables publiques (Odlyzko, LMFDB) |
 | `4-theorie/` | liens avec la littérature, questions ouvertes |
 | `5-communaute/` | spectromètre interactif, guide pour contribuer, plan de montage en réseau hyperfréquence |
+| `6-born/` | partie supplémentaire : la relation de commutation de Born, la conservation du défaut des portes, le peigne de Möbius des résonances |
 
 ## Lancer le banc d'essai
 
@@ -70,7 +71,7 @@ Python 3.10 ou plus, avec `numpy` et `scipy` ; `mpmath` seulement pour les contr
 
 ```
 cd 2-banc-d-essai
-python lancer_les_tests.py          # 14 tests rapides (environ 15 secondes)
+python lancer_les_tests.py          # 18 tests rapides (environ 15 secondes)
 python lancer_les_tests.py --lents  # + 3 tests lents : fenêtres à 3·10⁵ et 2·10⁶, recalcul des portes de Dirichlet (environ 1 minute de plus)
 ```
 
