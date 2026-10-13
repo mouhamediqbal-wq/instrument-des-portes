@@ -1,0 +1,2 @@
+# Count the interactive spectrometer page as documentation, so GitHub labels the project by its Python code
+*.html linguist-documentation
