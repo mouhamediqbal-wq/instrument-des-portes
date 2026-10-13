@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Door Instrument: playing the Riemann zeros from the primes, and the reverse"
+authors:
+  - name: "ABL_M81"
+  - name: "Claude (Anthropic's AI assistant)"
+version: "0.1"
+date-released: "2026-10-13"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/mouhamediqbal-wq/instrument-des-portes"
+keywords:
+  - "Riemann zeros"
+  - "prime numbers"
+  - "explicit formula"
+  - "spectrometer"
+  - "quantum graphs"
+  - "Dirichlet L-functions"
